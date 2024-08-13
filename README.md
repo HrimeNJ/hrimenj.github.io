@@ -1,1 +1,1 @@
-#This repository is used for Github Pages
+This repository is used for Github Pages
